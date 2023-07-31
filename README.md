@@ -48,13 +48,12 @@ Disasteriva's code architecture is organized into four primary packages:
 
 4. **Screens:** Comprises classes for each screen, handling JFrame creation and related functionality.
 
-## Installation and Usage
+## Login to Admin Screen
 
-As Gigi Coffee has already implemented front-end development, back-end development, database management, and deployment and hosting, Disasteriva's focus is on addressing climate hazards and natural disasters. Users can access Disasteriva, report disasters, view disaster details, and make donations to support disaster victims. Admins can manage disasters, review reports, update FAQs, and monitor the application's overall functionality.
+To access the Admin Page, use the following credentials:
 
-## Contributing
-
-Disasteriva welcomes contributions from developers, designers, and users who share our mission to combat climate change and support disaster resilience. For reporting issues, contributing code, or suggesting improvements, please check our GitHub repository and follow our contribution guidelines.
+- Username: admin
+- Password: 0000
 
 ## License
 
@@ -62,4 +61,4 @@ Disasteriva is open-source software licensed under the MIT License. Feel free to
 
 ## Acknowledgments
 
-Disasteriva was created by [Your Team Name], a group of passionate developers committed to making a positive impact in climate hazard awareness and disaster management. We thank all contributors for their valuable efforts in making this application a reality.
+Disasteriva was created by a group of passionate students from Taylor's University committed to making a positive impact in climate hazard awareness and disaster management.
